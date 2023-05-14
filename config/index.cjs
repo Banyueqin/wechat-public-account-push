@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '我的璐小崽', year: '1998', date: '02-28',
+          type: '*生日', name: '我的璐小崽', year: '1998', date: '02-27',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -44,7 +44,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '	n3cWC8ScV_QlnAXuD_6ax1macvCltu8MQ97SWDgfVIA',
+  CALLBACK_TEMPLATE_ID: 'n3cWC8ScV_QlnAXuD_6ax1macvCltu8MQ97SWDgfVIA',
 
   CALLBACK_USERS: [
     {
